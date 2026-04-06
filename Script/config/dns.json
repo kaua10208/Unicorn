@@ -1,0 +1,6 @@
+{
+  "dns": {
+    "adguard": "dns.adguard.com",
+    "cloudflare": "1dot1dot1dot1.cloudflare-dns.com"
+  }
+}

@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+    position: relative;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-image: url('assets/red.png');
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    align-content: end;
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+    color: #f55c5c71;
+}
+
+button {
+    background-color: #161616bd;
+    border: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+footer {    font-size: 0.8em;
+    color: #888888;
+}
+
+.accept-container {
+
+    margin-left: 15%;
+    margin-right: 15%;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgb(10, 10, 10);
+    border-radius: 15px;
+}
+
+.button-container {
+    justify-content: center;
+}
+
+.alert {
+    background-color: #250000;
+    color: #ec6565;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
