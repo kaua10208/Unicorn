@@ -1,0 +1,21 @@
+{
+  "apps": [
+    {
+      "name": "YouTube",
+      "package": "com.google.android.youtube",
+      "type": "replace",
+      "replacement": "libretube"
+    },
+    {
+      "name": "Maps",
+      "package": "com.google.android.apps.maps",
+      "type": "replace",
+      "replacement": "comaps"
+    },
+    {
+      "name": "Calculator",
+      "package": "com.android.calculator2",
+      "type": "optional"
+    }
+  ]
+}

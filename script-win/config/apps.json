@@ -1,0 +1,36 @@
+{
+    "apps": [
+        {
+            "name": "Telegram",
+            "id": "telegram",
+            "url": "https://telegram.org/dl/android/apk"
+        },
+        {
+            "name": "F-Droid",
+            "id": "fdroid",
+            "url": "https://f-droid.org/repo/org.fdroid.basic_2000005.apk",
+            "required": "true"
+        },
+        {
+            "name": "Cromite",
+            "id": "cromite",
+            "arm64": "https://github.com/uazo/cromite/releases/download/v145.0.7632.120-d133d52d09c925b6542ff00e368d18d74df85e7c/arm64_ChromePublic.apk",
+            "armv7": "https://github.com/uazo/cromite/releases/download/v145.0.7632.120-d133d52d09c925b6542ff00e368d18d74df85e7c/arm_ChromePublic.apk"
+        },
+        {
+            "name": "LibreTube",
+            "id": "libretube",
+            "url": "https://f-droid.org/repo/com.github.libretube_65.apk"
+        },
+        {
+            "name": "CoMaps",
+            "id": "comaps",
+            "url": "https://f-droid.org/repo/app.comaps.fdroid_26032305.apk"
+        },
+        {
+            "name": "",
+            "id": "",
+            "url": ""
+        }
+    ]
+}
